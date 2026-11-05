@@ -1,1 +1,5 @@
-console.log('imprimindo mensagem no console')
+function subtrair(a, b) {
+	return a - b;
+}
+
+console.log(subtrair(10, 4));
