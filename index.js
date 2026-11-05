@@ -1,0 +1,1 @@
+console.log('imprimindo mensagem no console')
